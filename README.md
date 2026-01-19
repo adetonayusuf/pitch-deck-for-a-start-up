@@ -7,6 +7,8 @@ This investor pitch deck was created for a fictional company, Duvet Business, a 
 
 This deck demonstrates my ability to transform raw business concepts and financial insights into a clear, elegant, and investment-ready presentation—the same quality standard used in consulting, investment banking, and venture funding discussions.
 
+![duvet](https://github.com/adetonayusuf/pitch-deck-for-a-start-up/blob/main/duvet%20pitch.png)
+
 ### My Role & Expertise
 As a Professional Accountant & Business Data Analyst, I bring a unique hybrid ability to pitch deck creation:
 
@@ -88,6 +90,8 @@ This deck incorporates several high-level design decisions:
 - Smooth slide transitions (professional-grade, non-distracting)
 - Light animations for live investor delivery
 
+  ![duvets](https://github.com/adetonayusuf/pitch-deck-for-a-start-up/blob/main/Duvet%20biz.png)
+
 ### What This Demonstrates
 
 This pitch deck proves my ability to:
@@ -106,6 +110,8 @@ If your company needs:
 - A consulting-style problem/solution slide deck
 
 I can help you deliver a polished, professional, and impactful result.
+
+![investor pitch](https://github.com/adetonayusuf/pitch-deck-for-a-start-up/blob/main/Investor%20Pitch%20Deck.pdf)
 
 📬 Work With Me
 
